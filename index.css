@@ -1,0 +1,19 @@
+#Background {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-03.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+Heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: bolder;
+    background-color: lightblue;
+}
+
+nav {
+    background-color: lightblue;
+}
